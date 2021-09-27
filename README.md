@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ivankhrenkov
 - 👀 I’m interested in cryptocurrencies, testnets, noderunning, and lasertag)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning blockchain technologies
 - 📫 How to reach me: ivankhrenkov@gmail.com
 
 <!---
